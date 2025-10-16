@@ -1,0 +1,22 @@
+{
+  "name": "phone-usage-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard for visualizing phone app usage data",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/node": "^24.7.2",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "chart.js": "^4.5.1",
+    "next": "^15.5.5",
+    "react": "^19.2.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^19.2.0",
+    "typescript": "^5.9.3"
+  },
+  "license": "ISC"
+}
