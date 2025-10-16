@@ -24,7 +24,7 @@ dist/
 
 # Data files
 data/
-*.json
+**/usage_data.json
 
 # IDE
 .vscode/
